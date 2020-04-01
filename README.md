@@ -22,4 +22,6 @@ nosql_inject_user_pass_mongodb.py [-h] [-u URL] [-e Parameter 2 enumerate]
 ```
 python  nosql_inject_user_pass_mongodb.py -u http://example.com/index.php -e username
 ```
-![alt text] (screenshot/sample.png)
+![alt text] (screenshot/usage.png)
+
+![alt text] (screenshot/sample.jpg)
