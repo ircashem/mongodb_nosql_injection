@@ -24,4 +24,4 @@ python  nosql_inject_user_pass_mongodb.py -u http://example.com/index.php -e use
 ```
  ![alt test] (screenshot\usage.png)
 
- ![alt test] (screenshot/sample.jpg)
+ ![Sample] (screenshot/sample.jpg)
