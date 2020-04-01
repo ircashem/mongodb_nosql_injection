@@ -1,5 +1,6 @@
 # mongodb_nosql_injection
-Blind Nosql injection leads to username/password enumeration in MongoDB using $(regex) and $(ne).< br />
+Blind Nosql injection leads to username/password enumeration in MongoDB using $(regex) and $(ne).
+
 This python script can enumerate all available usernames and passwords from a mongodb database using nosql injection.<br />
 
 Exploit Title: Blind Nosql injection leads to username/password enumeration in MongoDB using $(regex) and $(ne)
